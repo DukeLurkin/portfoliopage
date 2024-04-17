@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfoliopage/static/css/main.b04fa4be.css",
+    "main.js": "/portfoliopage/static/js/main.38a0347e.js",
+    "static/media/LukeHeadshotLeft.png": "/portfoliopage/static/media/LukeHeadshotLeft.790e29385ea2ba96bc81.png",
+    "static/media/resumeDevIntern.pdf": "/portfoliopage/static/media/resumeDevIntern.3230669bd74cee27a3e2.pdf",
+    "static/media/tourMarketingResume2024.pdf": "/portfoliopage/static/media/tourMarketingResume2024.4cbd0de9648255d820ab.pdf",
+    "static/media/bigLogo.png": "/portfoliopage/static/media/bigLogo.d01c5f64fccbea694a57.png",
+    "static/media/weatherApp.png": "/portfoliopage/static/media/weatherApp.e544677915252f33fa9b.png",
+    "static/media/noteTaker.png": "/portfoliopage/static/media/noteTaker.9a0bb8219bf3c33c7035.png",
+    "static/media/ecommerce.png": "/portfoliopage/static/media/ecommerce.b768fece35bff81e9394.png",
+    "static/media/stableCoinLogo.png": "/portfoliopage/static/media/stableCoinLogo.391e69f8e23ea8e940ba.png",
+    "static/media/ethLotteryNew.png": "/portfoliopage/static/media/ethLotteryNew.027df2dc9556c1abe6bb.png",
+    "static/media/quizIcon.png": "/portfoliopage/static/media/quizIcon.787b3c4725ef599873bd.png",
+    "static/media/ethRainbow.png": "/portfoliopage/static/media/ethRainbow.61f19c670adb4a6ec6c1.png",
+    "static/media/ethTokenLogo.png": "/portfoliopage/static/media/ethTokenLogo.7708697ad55988debcd9.png",
+    "static/media/ethNFTLogo.png": "/portfoliopage/static/media/ethNFTLogo.a45a49f07d86e8dd0aba.png",
+    "static/media/bucketList.png": "/portfoliopage/static/media/bucketList.fc854345037d1211a3d4.png",
+    "static/media/ui-design.png": "/portfoliopage/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/portfoliopage/index.html",
+    "main.b04fa4be.css.map": "/portfoliopage/static/css/main.b04fa4be.css.map",
+    "main.38a0347e.js.map": "/portfoliopage/static/js/main.38a0347e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04fa4be.css",
+    "static/js/main.38a0347e.js"
+  ]
+}
